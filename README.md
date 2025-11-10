@@ -18,5 +18,5 @@ Ders kapsamında işlenen konuların (sinyaller, sistemler, sürekli ve ayrık z
 Bilgisayar Mühendisliği — *BM216*  
 Elektrik-Elektronik Mühendisliği — *EEM301*
 
-## 💡 Katkıda Bulunma
-İçeriğe katkı sağlamak isteyenler pull request gönderebilir veya önerilerini **Issues** sekmesinden paylaşabilirler.
+## 💡💬 Katkıda Bulunma & Geri Bildirim
+İçeriğe katkı sağlamak, görüş, öneri veya hata bildirimi yapmak isterseniz, lütfen GitHub üzerinden bir **Issues** açın veya pull request gönderin. Katkılarınızı memnuniyetle karşılarız!
