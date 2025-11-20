@@ -36,3 +36,12 @@ if __name__ == "__main__":
 
 ![Birim Basamak Grafiği](./birim_basamak_ornegi.png)
 
+### Kullanım Alanları
+
+| Alan | Nerede Karşımıza Çıkar? | Not |
+| --- | --- | --- |
+| İşaret ve Sistemler | LTI sistemlerin adım cevabı; yükselme ve yerleşme süresi ölçümleri | “Tek bir adımla” sistemin tüm karakteristiğini okuyabilirsin. |
+| Kontrol Teorisi | PID ayarları; kontrolör stabilitesini sınamak için ani girişler | Adım cevabı iyi ise sistem kumanda değişimlerine paniklemez. |
+| Elektrik/Elektronik | Güç anahtarlamaları, dijital lojik seviyeleri, filtrelerin transient analizi | Bir anahtarı “klik” etmek tüm dalga formlarının domino etkisini başlatır. |
+| Haberleşme | Paketlerin açılıp kapanan taşıyıcıları, pencereleme fonksiyonları | Veri akışında “şimdi başla” komutunu söyleyen görünmez spiker gibidir. |
+| Gerçek Dünya | Trafik ışığının yanması, ısıtıcının devreye girmesi, sensör tetiklenmesi | Günlük hayatın çoğu “aniden başla” olayı aslında u(t) ile betimlenir. |
